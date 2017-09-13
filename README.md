@@ -1,4 +1,4 @@
 # hello_world
 Tutorial
-Peter Casey, trying our the tutorial
+Peter Casey, trying out the tutorial
 
